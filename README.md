@@ -1,4 +1,3 @@
-# projeto_sprint5
 # Projeto Análise de Veículos
 
 Este projeto é um aplicativo web desenvolvido com **Streamlit** que permite explorar um conjunto de dados de anúncios de veículos (`vehicles_us.csv`).
