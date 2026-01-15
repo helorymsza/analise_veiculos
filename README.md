@@ -28,3 +28,14 @@ O objetivo principal é facilitar a análise visual dos dados, permitindo identi
 
 ### Aplicação no Render
 - Clique aqui para abrir o app (https://projeto-sprint5-py2q.onrender.com)
+
+### Conjunto de Dados
+O dataset utilizado contém anúncios de veículos usados nos Estados Unidos, incluindo informações como:
+- Preço
+- Ano do veículo
+- Quilometragem
+- Tipo de combustível
+- Condição do veículo
+
+### Considerações Finais
+Este projeto demonstra a aplicação prática de análise exploratória de dados aliada ao desenvolvimento de uma aplicação web interativa, sendo ideal para fins educacionais e portfólio em ciência de dados.
